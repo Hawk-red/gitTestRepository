@@ -40,5 +40,12 @@ li hover {
 
 .gitHubLogo {
 	padding-left: 30%;
-	position: absolute;
+	position: relative;
+}
+
+footer {
+	font-size: 1.5rem;
+	color: blueviolet;
+	text-align: center;
+	padding: 5% 10%;
 }
