@@ -37,3 +37,8 @@ li hover {
 	font-weight: bold;
 	color: rgb(1, 8, 8);
 }
+
+.gitHubLogo {
+	padding-left: 30%;
+	position: absolute;
+}
